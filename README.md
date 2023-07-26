@@ -1,0 +1,3 @@
+# Problem Statement 
+The problem statement is pretty simple. We need a software implementation of a Point of Sale terminal at a typical store. The users of the system are the cashiers sitting at the sales terminals of the store. The users can use the system to manage sales items in the store, customer details and of course the sales. The system should be capable of presenting some reports related to the sales, items and customers. 
+All data should be stored in flat file system.
